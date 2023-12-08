@@ -1,10 +1,11 @@
 <h1 align="center">Hi , Prasanna Here I'm Fullstack Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div style="text-align:center">
-  <p>🔭 I’m currently working on Backend Technologies and Cloud</p>
-  <p>👯 I’m looking to collaborate with opensource Contributors</p>
-   <p>🌱 I’m currently learning Backend Technologies and Cloud Computing</p>
-   <p>💬 Ask me about React, cloud</p>
-   <p>✉️ Reach me here <a href="prasannadonga1357@gmail.com">click here</a></p>
+  -🔭 I’m currently working on Backend Technologies and Cloud
+  -👯 I’m looking to collaborate with opensource Contributors
+  -🌱 I’m currently learning Backend Technologies and Cloud Computing
+  -💬 Ask me about React, cloud
+  - 📫 Reach me [here](prasannadonga1357@gmail.com)
+
 </div>
 
 ## 🏆 GitHub Trophies
