@@ -1,11 +1,9 @@
-<h1 align="center">Hi , Prasanna Here I'm Fullstack Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , Prasanna Here Full-Stack Developer evolving into an AI Engineer 🚀 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div style="text-align:center">
-  <p>🔭 I’m currently working on Backend Technologies and Cloud</p>
-  <p>👯 I’m looking to collaborate with opensource Contributors</p>
-   <p>🌱 I’m currently learning Backend Technologies and Cloud Computing</p>
-   <p>💬 Ask me about React, cloud</p>
- 
-
+<p>🔭 I’m currently working on scalable backend architectures and cloud-native systems with an AI focus</p>
+<p>👯 I’m looking to collaborate with researchers and open-source contributors in AI and cloud domains</p>
+<p>🌱 I’m currently exploring Cloud Computing, MLOps, and AI-driven system design</p>
+<p>💬 Ask me about AI systems, Spring Boot, React and cloud technologies</p>
 </div>
 
 ## 🏆 GitHub Trophies
